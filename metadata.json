@@ -1,0 +1,6 @@
+{
+  "name": "زوامل اليمن",
+  "description": "تطبيق متكامل للزوامل والتراث اليمني مع مشغل صوتي متقدم، تسجيل دخول بحساب Google، ولوحة تحكم متكاملة لإدارة وترتيب المحتوى.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
